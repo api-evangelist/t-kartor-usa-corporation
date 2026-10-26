@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-T-Kartor USA Corporation is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.t-kartor.com
+T-Kartor USA Corporation provides custom geospatial solutions, transforming complex spatial data into actionable insights for navigation, wayfinding, and analytics. With over 35 years of experience, the company offers products, services, and consulting to help organizations improve safety, security, and operational efficiency through advanced mapping and location intelligence technologies.
+
+**Areas:** Company · Geospatial · Mapping · Wayfinding · Analytics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.t-kartor.com)
+- [Blog](https://www.t-kartor.com/blog/modernizing-geospatial-with-ai-and-ml)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/t-kartor-usa-corporation/](https://apis.io/providers/t-kartor-usa-corporation/).
